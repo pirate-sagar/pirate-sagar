@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @pirate-sagar
-- 👀 I’m interested in Flutter, Svelte, AI
-- 🙃 Currently building a text to animation web app
-- 🌱 I’m currently learning Svelte
+
